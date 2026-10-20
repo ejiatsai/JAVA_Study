@@ -34,6 +34,6 @@ public class week4HW1 {
         System.out.println("r2面積:" + r2.area());
         System.out.println("r1是否為正方形:" + r1.isSquare());
         System.out.println("r2是否為正方形:" + r2.isSquare());
-        Rectangle r3 = new Rectangle(-1, -4);
+        // Rectangle r3 = new Rectangle(-1, -4); //透過IllegalArgumentException拒絕負值
     }
 }
