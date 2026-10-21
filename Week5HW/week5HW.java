@@ -29,4 +29,4 @@ class cat extends animal{
 //     public void makesound(){
 //         System.out.println("I am bat man!");
 //     }
-// }
+// }// 複寫失敗案例
